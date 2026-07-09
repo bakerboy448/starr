@@ -1,8 +1,8 @@
 module golift.io/starr
 
-go 1.23.0
+go 1.25.0
 
-require golang.org/x/net v0.38.0 // publicsuffix, cookiejar.
+require golang.org/x/net v0.55.0 // publicsuffix, cookiejar.
 
 // All of this is for the tests.
 require (
